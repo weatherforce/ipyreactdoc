@@ -150,7 +150,7 @@ and then you create a notebook from the manager.
 
 Tadddaaaa it worked ! wouhou
 
-![alt text](react_comm_1.png "Proof by screenshot :P")
+![alt text](_static/react_comm_1.png "Proof by screenshot :P")
 
 ### Option 2
 

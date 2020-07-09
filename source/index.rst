@@ -12,10 +12,6 @@ ipyreact
    user-guide
    developer-guide
 
-   :caption: Contents:
-
-
-
 Indices and tables
 ==================
 
