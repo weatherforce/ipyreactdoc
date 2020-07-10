@@ -32,4 +32,7 @@ In the same terminal as your virtual environment run:
 jupyter notebook examples/slider.ipynb
 ```
 
-There are other example ipynb which can be found in the examples folder
+There are other example ipynb which can be found in the examples folder.
+
+If you want to develop your own widget using this project, you can refer yourself to the
+[custom-widget](make-a-widget.md) section.
